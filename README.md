@@ -5,7 +5,7 @@ Time series forecasting is the use of a model to predict future values based on 
 Models for time series data can have many forms and represent different stochastic processes. When modeling variations in the level of a process, three broad classes of practical importance are the autoregressive (AR) models, the integrated (I) models, and the moving average (MA) models. These three classes depend linearly on previous data points.[28] Combinations of these ideas produce autoregressive moving average (ARMA) and autoregressive integrated moving average (ARIMA) models
 
 Wikipedia resource:
-https://en.wikipedia.org/wiki/Time_series#Models
+https://en.wikipedia.org/wiki/Time_series
 
 
 In finance, volatility (usually denoted by σ) is the degree of variation of a trading price series over time, usually measured by the standard deviation of logarithmic returns.
